@@ -1,0 +1,27 @@
+{
+    "models": {
+        "desktop": {
+            "1366": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "i5e5af21b4b9428dbc427305582e1a82",
+                        "formName": "Form1",
+                        "isStartupForm": true,
+                        "key": "i5e5af21b4b9428dbc427305582e1a82",
+                        "loc": "8 24.845263671875003",
+                        "thumbnailURL": "/assets/SampleProject/forms/desktop/Form1.sm/.thumbs/1366.jpeg?"
+                    }
+                ]
+            }
+        }
+    },
+    "nodeLocation": {
+        "androidwear": [],
+        "desktop": [],
+        "mobile": [],
+        "tablet": [],
+        "watch": []
+    }
+}

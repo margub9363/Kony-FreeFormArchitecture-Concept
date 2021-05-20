@@ -1,0 +1,23 @@
+{
+    "AS_Form_b569d8a5db1044938b1ce956aa252b47": {
+        "id": "AS_Form_b569d8a5db1044938b1ce956aa252b47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h994de34ab6b476db3ec5a3ec77dac44"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_f1438b6560e64177ae09616755390c48",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "MVCApp.getForm1Controller();\nMVCApp.Form1Controller().load();",
+            "parentId": null
+        }]
+    }
+}
